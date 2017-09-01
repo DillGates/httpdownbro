@@ -1,4 +1,4 @@
-# httpdownbro.py - Simple httpdownbro in Python
+# httpdownbro.py - Simple Dos slow down tool in Python
 
 ## What is httpdownbro(Slowloris)?
 httpdownbro is basically an HTTP Denial of Service attack that affects threaded servers. It works like this:
@@ -16,7 +16,7 @@ You can clone the git repo or install using **pip**. Here's how you run it.
 * `sudo pip3 install slowloris`
 * `slowloris example.com`
 
-That's all it takes to install and run slowloris.py.
+That's all it takes to install and run httpdownbro.py.
 
 If you want to clone using git instead of pip, here's how you do it.
 

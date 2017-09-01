@@ -13,8 +13,8 @@ This exhausts the servers thread pool and the server can't reply to other people
 
 You can clone the git repo or install using **pip**. Here's how you run it.
 
-* `sudo pip3 install slowloris`
-* `slowloris example.com`
+* `sudo pip3 install httpdownbro`
+* `httpdownbro example.com`
 
 That's all it takes to install and run httpdownbro.py.
 
